@@ -1,12 +1,9 @@
-//
-//  main.c
-//  BitwiseOp
-//
-//  Created by Eric LEFEUVRE on 06/01/2023.
-//  Copyright (c) 2023 Eric LEFEUVRE. All rights reserved.
-//
 
-/*  Author : Eric LEFEUVRE
+/*  BitwiseOperations > BitwiseOp64b
+    
+    Author : Eric RIOUALEC LEFEUVRE
+    
+    Made public on GitHub on 2023-02-7
     Finished and uploaded on 2023-01-6 on Sololearn
     Early bits of code reused from old 2014-06-28 project
 
