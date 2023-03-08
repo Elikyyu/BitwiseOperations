@@ -3,6 +3,9 @@ Simple exercice program en C to apply bitwise operations to two numbers up to 64
 
 Created by Eric RIOUALEC LEFEUVRE on 06/01/2023.
 
+Can be tested live on SoloLearn browser playground :
+    https://www.sololearn.com/compiler-playground/cGu4YRBY8pN0
+
 Finished and uploaded on 2023-01-6 on Sololearn
 Early bits of code reused from old 2014-06-28 project
 
